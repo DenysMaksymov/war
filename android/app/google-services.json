@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719097331947",
+    "project_id": "war-nft",
+    "storage_bucket": "war-nft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719097331947:android:5d31118e7db660c24c3eae",
+        "android_client_info": {
+          "package_name": "com.example.war_nft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719097331947-svk9igi7kb1igodif690vl83na4d93hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX57_pZxuM0SX7N4HrewZn5RDEhLqTkWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719097331947-svk9igi7kb1igodif690vl83na4d93hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
